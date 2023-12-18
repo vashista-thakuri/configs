@@ -2,5 +2,8 @@
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| New file      | Title       |
+| New file    | Title       |
+| Paragraph   | Textwerwer        |
 | Paragraph   | Text        |
+| sdfsdf   | Text        |
+| Paragraewrwerph   | Text sdf       |
